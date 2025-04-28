@@ -1,0 +1,40 @@
+# Output files
+*.OutJob
+*.zip
+*.pdf
+*.gerber
+*.gbr
+*.gbl
+*.gtl
+*.gts
+*.gto
+*.gbs
+*.gbo
+*.drl
+
+# Backup and cache files
+*.SchDocPreview
+*.PCBDocPreview
+*.tmp
+*.bak
+*.log
+*.err
+*.dmp
+
+# Simulation and intermediate files
+*.sim
+*.cache
+*.cachelib
+*.db
+*.xml
+
+# Project automatically generated files
+*.PrjPCBStructure
+*.PrjPCBVariants
+History/
+__Previews/
+Project Outputs/
+Project Cache/
+Simulation Outputs/
+Generated/
+__Generated/

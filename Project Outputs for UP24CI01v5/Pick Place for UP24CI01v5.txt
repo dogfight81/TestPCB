@@ -1,0 +1,50 @@
+Altium Designer Pick and Place Locations
+D:\ukrpiezo\copterInitiator\pcb\UP24CI01v5\Project Outputs for UP24CI01v5\Pick Place for UP24CI01v5.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       04.08.24
+Time:       21:34
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                   Layer    Footprint        Center-X(mm) Center-Y(mm) Rotation 
+C1         "680םÔ 10 Â 10% 0603 X7R" TopLayer C0603            12.0650      19.6850      90       
+C2         "680םÔ 10 Â 10% 0603 X7R" TopLayer C0603            21.3360      4.1910       270      
+C3         "1000לךÔ 6.3Â 8x10.5"     TopLayer ELCAP_SMD_8x10.5 17.3990      24.2570      270      
+C4         "22ןÔ  5%  50Â 0603 NPO"  TopLayer C0603            13.3350      16.7640      225      
+C5         "22ןÔ  5%  50Â 0603 NPO"  TopLayer C0603            13.5313      14.8013      225      
+C6         "10םÔ 50 Â 10% 0603 X7R"  TopLayer C0603            22.8600      4.1910       270      
+C7         "10םÔ 50 Â 10% 0603 X7R"  TopLayer C0603            25.9080      4.1910       270      
+C8         "10םÔ 50 Â 10% 0603 X7R"  TopLayer C0603            28.9560      4.1910       270      
+C9         "1000לךÔ 6.3Â 8x10.5"     TopLayer ELCAP_SMD_8x10.5 26.4160      24.2570      270      
+C10        "1000לךÔ 6.3Â 8x10.5"     TopLayer ELCAP_SMD_8x10.5 35.4330      24.2570      270      
+C11        "47םÔ 25 Â 10% 0603 X7R"  TopLayer C0603            9.0170       19.6850      90       
+J1         PLS-4                     TopLayer HEADER_1X4       6.2230       22.8600      360      
+J2         PLD-6                     TopLayer HEADER_2X3       12.1920      3.4290       180      
+LED1       ""                        TopLayer LED0805G         26.2890      15.2400      360      
+LED2       ""                        TopLayer LED0805R         26.2890      17.3990      360      
+MCU1       ATmega88PA-AU             TopLayer LQFP-32-P0.8     18.5420      11.0490      315      
+R1         "1.0 ךÎל 0603 5%"         TopLayer R0603            22.9870      15.8750      180      
+R2         "4.7 ךÎל 0603 5%"         TopLayer R0603            26.6700      13.3350      360      
+R3         "4.7 ךÎל 0603 5%"         TopLayer R0603            7.4930       4.3180       90       
+R4         "330 Îל 0603 5%"          TopLayer R0603            7.3660       26.2890      180      
+R5         "10 Îל 0603 5%"           TopLayer R0603            17.7800      2.4130       90       
+R6         "100 ךÎל 0603 5%"         TopLayer R0603            13.2080      7.7470       135      
+R7         "1.0 ךÎל 0603 5%"         TopLayer R0603            24.9810      7.1120       0        
+R8         "1.0 ÌÎל 0603 5%"         TopLayer R0603            27.4320      9.5250       90       
+R9         "100 Îל 0603 5%"          TopLayer R0603            24.3840      4.1910       90       
+R10        "100 ךÎל 0603 5%"         TopLayer R0603            27.4320      4.1910       90       
+R11        "330 Îל 0603 5%"          TopLayer R0603            4.0640       20.3200      180      
+R12        "330 ךÎל 0603 5%"         TopLayer R0603            10.5410      19.6850      270      
+R14        "1.0 ךÎל 0603 5%"         TopLayer R0603            22.8600      17.3990      180      
+R15        "47 ךÎל 0603 5%"          TopLayer R0603            7.4930       19.6850      270      
+R16        "47 ךÎל 0603 5%"          TopLayer R0603            7.3660       27.8130      360      
+S1         AETHDX-2802               TopLayer AETHDX-2802      5.2070       9.9830       0        
+VD1        BAT54C                    TopLayer SOT-23           10.9220      26.7335      90       
+VT1        IRLML0030                 TopLayer SOT-23           32.0040      3.6260       90       
+X1         Wire_075                  TopLayer wire_075         33.5070      16.2560      90       
+X2         Wire_075                  TopLayer wire_075         33.5070      7.8740       90       
+ZQ1        "12.0 MHz HC-49S"         TopLayer HC-49S           9.3980       12.3460      270      
